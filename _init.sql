@@ -1,4 +1,4 @@
--- Инициализация схемы interface.
+-- Инициализация схемы interface. new functionality
 
 -- Создание схемы.
 \i schema.sql
