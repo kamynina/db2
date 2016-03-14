@@ -1,4 +1,5 @@
 -- test 1
-CREATE SCHEMA interface AUTHORIZATION options;
+CREATE SCHEMA api AUTHORIZATION options;
 
-GRANT ALL ON SCHEMA interface TO options;
+GRANT ALL ON SCHEMA api TO options;
+GRANT USAGE ON SCHEMA api TO options_user;
