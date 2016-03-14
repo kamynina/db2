@@ -1,4 +1,4 @@
--- Инициализация схемы interface. new functionality
+-- Инициализация схемы interface. new functionality bred
 
 -- Создание схемы.
 \i schema.sql
