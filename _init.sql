@@ -3,7 +3,7 @@
 
 -- Создание схемы.
 \i schema.sql
-SET search_path = interface, public;
+SET search_path = api, public;
 
 -- Создание функций.
 \i functions/one.sql
