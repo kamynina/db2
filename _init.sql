@@ -1,5 +1,5 @@
 -- Инициализация схемы interface. new functionality breduytre
--- Инициализация схемы interface. new functionality bredtrd
+-- Инициализация схемы interface. new functionality bredtrdiuytr
 
 -- Создание схемы.
 \i schema.sql
