@@ -1,4 +1,4 @@
--- Инициализация схемы interface. new functionality breduytre
+-- Инициализация схемы interface. new functionality breduytrehgfd
 -- Инициализация схемы interface. new functionality bredtrdiuytr
 
 -- Создание схемы.
