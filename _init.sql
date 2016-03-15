@@ -1,6 +1,5 @@
--- Инициализация схемы interface. new functionality test 1
+-- Инициализация схемы interface. new functionality test 1, test 2
 -- Инициализация схемы interface. new functionality
--- test again
 
 -- Создание схемы.
 \i schema.sql
