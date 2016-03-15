@@ -1,5 +1,5 @@
--- Инициализация схемы interface. new functionality test
--- Инициализация схемы interface. new functionality test1111kkkkk
+-- Инициализация схемы interface. new functionality test 1
+-- Инициализация схемы interface. new functionality
 -- test again
 
 -- Создание схемы.
