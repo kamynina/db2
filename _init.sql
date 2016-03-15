@@ -1,4 +1,4 @@
--- Инициализация схемы interface. new functionality test 1, test 2, test 3
+-- Инициализация схемы interface. new functionality test 1, test 2, test 3, test 5
 -- Инициализация схемы interface. new functionalityiuytre
 
 -- Создание схемы.
