@@ -1,5 +1,5 @@
--- Инициализация схемы interface. new functionality breduytrehgfd
--- Инициализация схемы interface. new functionality bredtrdiuytr
+-- Инициализация схемы interface. new functionality test
+-- Инициализация схемы interface. new functionality test1111
 
 -- Создание схемы.
 \i schema.sql
