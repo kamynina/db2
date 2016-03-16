@@ -1,4 +1,4 @@
--- Инициализация схемы interface. test 1
+-- Инициализация схемы interface. test blin!
 
 -- Создание схемы.
 \i schema.sql
