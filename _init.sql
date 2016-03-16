@@ -1,5 +1,5 @@
--- Инициализация схемы interface. new functionality test 1, test 2, test 3, test 4, test 5, test 6
--- Инициализация схемы interface. new functionalityiuytre
+-- Инициализация схемы interface. test blin!
+-- test 2, wait 1.1
 
 -- Создание схемы.
 \i schema.sql
