@@ -1,4 +1,4 @@
---512
+--11512
 CREATE FUNCTION one() RETURNS integer AS $$
-SELECT 7 AS result;
+SELECT 6 AS result;
 $$ LANGUAGE SQL;
