@@ -1,4 +1,4 @@
---version 2
+--version 2 hotfix
 CREATE FUNCTION one() RETURNS integer AS $$
 SELECT 13 AS result;
 $$ LANGUAGE SQL;
