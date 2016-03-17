@@ -1,4 +1,3 @@
--- test test
 CREATE FUNCTION insert_department(_dep_name VARCHAR(128)) RETURNS TABLE (id INT, name VARCHAR(128)) LANGUAGE plpgsql
 AS
   $$
