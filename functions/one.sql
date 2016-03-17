@@ -1,3 +1,3 @@
 CREATE FUNCTION one() RETURNS integer AS $$
-SELECT 5 AS result;
+SELECT 6 AS result;
 $$ LANGUAGE SQL;
