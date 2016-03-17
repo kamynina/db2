@@ -1,4 +1,4 @@
 --151211
 CREATE FUNCTION one() RETURNS integer AS $$
-SELECT 9 AS result;
+SELECT 10 AS result;
 $$ LANGUAGE SQL;
